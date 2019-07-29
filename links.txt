@@ -1,0 +1,13 @@
+https://www.geeksforgeeks.org/operating-system-boot-block/
+
+https://web.cs.wpi.edu/~rek/DCS/D04/UnixFileSystems.html
+
+https://www.geeksforgeeks.org/operating-system-introduction-system-call/
+
+https://www.geeksforgeeks.org/chmod-command-linux/
+
+https://www.geeksforgeeks.org/chmod-command-linux/
+
+https://www.geeksforgeeks.org/cat-command-linux-examples/
+
+https://www.geeksforgeeks.org/grep-command-in-unixlinux/
